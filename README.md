@@ -9,6 +9,7 @@ On WINDOWS machines
 2. Type the following commands (the > is the prompt)
 
 > py -m pip install -U pygame --user
+
 > py -m pygame.examples.aliens
 
 3. The first command will install pygame. The second will launch an alien shooter game (so you know if pygame is working).
@@ -20,6 +21,7 @@ On MAC machines
 2. Type the following commands (the > is the prompt)
 
 > python3 -m pip install -U pygame --user
+
 > python3 -m pygame.examples.aliens
 
 3. The first command will install pygame. The second will launch an alien shooter game (so you know if pygame is working).
