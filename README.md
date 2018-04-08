@@ -6,7 +6,7 @@ Before you can use this file, you will need to install pygame on your machine. D
 On WINDOWS machines
 
 1. Open Git BASH.
-2. Type the following commands (the > is the prompt)
+2. Type the following commands:
 
 > py -m pip install -U pygame --user
 
@@ -18,7 +18,7 @@ On WINDOWS machines
 On MAC machines
 
 1. Open a Terminal
-2. Type the following commands (the > is the prompt)
+2. Type the following commands:
 
 > python3 -m pip install -U pygame --user
 
